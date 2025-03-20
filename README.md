@@ -16,7 +16,7 @@ Placeholder.
 
 (Placeholder)
 
-See ignored_pokemon.csv for details. Also, Golisopod's type was changed from "bug" to "Bug".
+See ignored_pokemon.csv for details. Golisopod's type was changed from "bug" to "Bug". Snom's type was changed from "ice" to "Ice".
 
 ## License
 
