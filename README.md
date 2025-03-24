@@ -47,4 +47,4 @@ To read through the code and results behind the paper, simply open the file `mai
 
 ## Generative AI Usage Disclosure
 
-For this assignment's preparation, the author has utilized ChatGPT, a language model created by OpenAI. Within this assignment, ChatGPT was used to assist in the creation of image color extraction functions, the visualization of confusion matrices, and writing a function to assist with the unbalanced class weights.
+For this assignment's preparation, the author has utilized ChatGPT, a language model created by OpenAI. Within this assignment, ChatGPT was used to assist in the creation of image color extraction functions, the visualization of confusion matrices, writing a function to assist with the unbalanced class weights, and writing a function to help assess multi-label classification accuracy.
