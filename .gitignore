@@ -175,5 +175,6 @@ cython_debug/
 
 # Pokemon images (too large for repo)
 /data/pokemon_images
+/data/pokemon_images_alt
 ST 445 545 Final Project_Sp25.pdf
 /models
