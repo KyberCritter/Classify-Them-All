@@ -9,12 +9,12 @@ Placeholder.
 
 ## Data Sets
 
-1. Pokemon Images - ["1000 Pokemon Dataset" by Noodlz, Kaggle](https://www.kaggle.com/datasets/noodulz/pokemon-dataset-1000/data)
+1. Pokemon Images - [Pokemon with Stats and Images by Christoffer MS, Kaggle](https://www.kaggle.com/datasets/christofferms/pokemon-with-stats-and-image)
 2. Pokemon Statistics - ["Pokemon Pokedex" by Kumar Arnav, Kaggle](https://www.kaggle.com/datasets/arnavvvvv/pokemon-pokedex)
 
 ## Data Set Adjustments
 
-(Placeholder)
+
 
 See ignored_pokemon.csv for details. Golisopod's type was changed from "bug" to "Bug". Snom's type was changed from "ice" to "Ice".
 
