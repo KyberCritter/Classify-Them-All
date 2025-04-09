@@ -1,18 +1,233 @@
-Number	Name	Reason
-	Deoxys	Ignored all forms except Normal
-	Wormadam	Ignored all forms except Plant
-487	Giratina	"2 forms, always in a form"
-	Shaymin	"Ignored Sky Forme, kept Land Forme"
-555	Darmanitan	Ignored all forms except Standard
-	Aegislash	Ignored all forms Shield
-	Meowstic	"Ignored Female, kept Male"
-	Pumpkaboo	Ignored all sizes except Average
-	Gourgiest	Ignored all sizes except Average
-	Zygarde	Ignored all forms except 50%
-720	Hoopa	Ignored because of forms
-	Landorus	Ignored all forms except Incarnate
-	Tornadus	Ignored all forms except Incarnate
-	Thundurus	Ignored all forms except Incarnate
-	Kyurem	Ignored all forms except default
-	Keldeo	Ignored all forms except ordinary
-	Meloetta	Ignored all forms except Aria
+Number,Name
+3,Venusaur Mega Venusaur
+7,Charizard Mega Charizard X
+8,Charizard Mega Charizard Y
+12,Blastoise Mega Blastoise
+19,Beedrill Mega Beedrill
+23,Pidgeot Mega Pidgeot
+25,Rattata Alolan Rattata
+27,Raticate Alolan Raticate
+33,Pikachu Partner Pikachu
+35,Raichu Alolan Raichu
+37,Sandshrew Alolan Sandshrew
+39,Sandslash Alolan Sandslash
+49,Vulpix Alolan Vulpix
+51,Ninetales Alolan Ninetales
+64,Diglett Alolan Diglett
+66,Dugtrio Alolan Dugtrio
+68,Meowth Alolan Meowth
+69,Meowth Galarian Meowth
+71,Persian Alolan Persian
+77,Growlithe Hisuian Growlithe
+79,Arcanine Hisuian Arcanine
+86,Alakazam Mega Alakazam
+96,Geodude Alolan Geodude
+98,Graveler Alolan Graveler
+100,Golem Alolan Golem
+102,Ponyta Galarian Ponyta
+104,Rapidash Galarian Rapidash
+106,Slowpoke Galarian Slowpoke
+108,Slowbro Mega Slowbro
+109,Slowbro Galarian Slowbro
+113,Farfetch'd Galarian Farfetch'd
+119,Grimer Alolan Grimer
+121,Muk Alolan Muk
+127,Gengar Mega Gengar
+134,Voltorb Hisuian Voltorb
+136,Electrode Hisuian Electrode
+139,Exeggutor Alolan Exeggutor
+142,Marowak Alolan Marowak
+148,Weezing Galarian Weezing
+154,Kangaskhan Mega Kangaskhan
+162,Mr. Mime Galarian Mr. Mime
+168,Pinsir Mega Pinsir
+170,Tauros Combat Breed
+171,Tauros Blaze Breed
+172,Tauros Aqua Breed
+175,Gyarados Mega Gyarados
+179,Eevee Partner Eevee
+189,Aerodactyl Mega Aerodactyl
+192,Articuno Galarian Articuno
+194,Zapdos Galarian Zapdos
+196,Moltres Galarian Moltres
+201,Mewtwo Mega Mewtwo X
+202,Mewtwo Mega Mewtwo Y
+210,Typhlosion Hisuian Typhlosion
+235,Ampharos Mega Ampharos
+249,Wooper Paldean Wooper
+255,Slowking Galarian Slowking
+265,Steelix Mega Steelix
+269,Qwilfish Hisuian Qwilfish
+271,Scizor Mega Scizor
+274,Heracross Mega Heracross
+276,Sneasel Hisuian Sneasel
+284,Corsola Galarian Corsola
+292,Houndoom Mega Houndoom
+312,Tyranitar Mega Tyranitar
+319,Sceptile Mega Sceptile
+323,Blaziken Mega Blaziken
+327,Swampert Mega Swampert
+331,Zigzagoon Galarian Zigzagoon
+333,Linoone Galarian Linoone
+352,Gardevoir Mega Gardevoir
+373,Sableye Mega Sableye
+375,Mawile Mega Mawile
+379,Aggron Mega Aggron
+381,Medicham
+385,Manectric Mega Manectric
+395,Sharpedo Mega Sharpedo
+400,Camerupt Mega Camerupt
+412,Altaria Mega Altaria
+430,Castform Sunny Form
+431,Castform Rainy Form
+432,Castform Snowy Form
+436,Banette Mega Banette
+442,Absol Mega Absol
+446,Glalie Mega Glalie
+458,Salamence Mega Salamence
+462,Metagross Mega Metagross
+467,Latias Mega Latias
+469,Latios Mega Latios
+471,Kyogre Primal Kyogre
+473,Groudon Primal Groudon
+475,Rayquaza Mega Rayquaza
+477,Deoxys Normal Forme
+478,Deoxys Attack Forme
+479,Deoxys Defense Forme
+480,Deoxys Speed Forme
+506,Burmy Plant Cloak
+507,Burmy Sandy Cloak
+508,Burmy Trash Cloak
+509,Wormadam Plant Cloak
+510,Wormadam Sandy Cloak
+511,Wormadam Trash Cloak
+527,Lopunny Mega Lopunny
+545,Garchomp Mega Garchomp
+549,Lucario Mega Lucario
+562,Abomasnow Mega Abomasnow
+578,Gallade Mega Gallade
+583,Rotom Heat Rotom
+584,Rotom Wash Rotom
+585,Rotom Frost Rotom
+586,Rotom Fan Rotom
+587,Rotom Mow Rotom
+592,Dialga Origin Forme
+594,Palkia Origin Forme
+597,Giratina Altered Forme
+598,Giratina Origin Forme
+603,Shaymin Land Forme
+604,Shaymin Sky Forme
+616,Samurott Hisuian Samurott
+645,Audino Mega Audino
+664,Lilligant Hisuian Lilligant
+665,Basculin Red-Striped Form
+666,Basculin Blue-Striped Form
+667,Basculin White-Striped Form
+672,Darumaka Galarian Darumaka
+673,Darmanitan Standard Mode
+674,Darmanitan Zen Mode
+675,Darmanitan Galarian Standard Mode
+676,Darmanitan Galarian Zen Mode
+684,Yamask Galarian Yamask
+693,Zorua Hisuian Zorua
+695,Zoroark Hisuian Zoroark
+743,Stunfisk Galarian Stunfisk
+754,Braviary Hisuian Braviary
+767,Tornadus Incarnate Forme
+768,Tornadus Therian Forme
+769,Thundurus Incarnate Forme
+770,Thundurus Therian Forme
+773,Landorus Incarnate Forme
+774,Landorus Therian Forme
+776,Kyurem White Kyurem
+777,Kyurem Black Kyurem
+778,Keldeo Ordinary Form
+779,Keldeo Resolute Form
+780,Meloetta Aria Forme
+781,Meloetta Pirouette Forme
+792,Greninja Ash-Greninja
+803,Flabébé
+812,Meowstic Male
+813,Meowstic Female
+816,Aegislash Shield Forme
+817,Aegislash Blade Forme
+842,Sliggoo Hisuian Sliggoo
+844,Goodra Hisuian Goodra
+847,Trevenant
+848,Pumpkaboo Average Size
+849,Pumpkaboo Small Size
+850,Pumpkaboo Large Size
+851,Pumpkaboo Super Size
+852,Gourgeist Average Size
+853,Gourgeist Small Size
+854,Gourgeist Large Size
+855,Gourgeist Super Size
+858,Avalugg Hisuian Avalugg
+863,Zygarde 50% Forme
+864,Zygarde 10% Forme
+865,Zygarde Complete Forme
+867,Diancie Mega Diancie
+868,Hoopa Hoopa Confined
+869,Hoopa Hoopa Unbound
+874,Decidueye Hisuian Decidueye
+891,Oricorio Baile Style
+892,Oricorio Pom-Pom Style
+893,Oricorio Pa'u Style
+894,Oricorio Sensu Style
+898,Rockruff Own Tempo Rockruff
+899,Lycanroc Midday Form
+900,Lycanroc Midnight Form
+901,Lycanroc Dusk Form
+902,Wishiwashi Solo Form
+903,Wishiwashi School Form
+931,Minior Meteor Form
+932,Minior Core Form
+959,Necrozma Dusk Mane Necrozma
+960,Necrozma Dawn Wings Necrozma
+961,Necrozma Ultra Necrozma
+1010,Toxtricity Amped Form
+1011,Toxtricity Low Key Form
+1037,Eiscue Ice Face
+1038,Eiscue Noice Face
+1039,Indeedee Male
+1040,Indeedee Female
+1041,Morpeko Full Belly Mode
+1042,Morpeko Hangry Mode
+1053,Zacian Hero of Many Battles
+1054,Zacian Crowned Sword
+1055,Zamazenta Hero of Many Battles
+1056,Zamazenta Crowned Shield
+1058,Eternatus Eternamax
+1060,Urshifu Single Strike Style
+1061,Urshifu Rapid Strike Style
+1068,Calyrex Ice Rider
+1069,Calyrex Shadow Rider
+1073,Ursaluna Bloodmoon
+1074,Basculegion Male
+1075,Basculegion Female
+1078,Enamorus Incarnate Forme
+1079,Enamorus Therian Forme
+1090,Oinkologne Male
+1091,Oinkologne Female
+1100,Maushold Family of Four
+1101,Maushold Family of Three
+1107,Squawkabilly Green Plumage
+1108,Squawkabilly Blue Plumage
+1109,Squawkabilly Yellow Plumage
+1110,Squawkabilly White Plumage
+1143,Palafin Zero Form
+1144,Palafin Hero Form
+1158,Tatsugiri Curly Form
+1159,Tatsugiri Droopy Form
+1160,Tatsugiri Stretchy Form
+1164,Dudunsparce Two-Segment Form
+1165,Dudunsparce Three-Segment Form
+1182,Gimmighoul Chest Form
+1183,Gimmighoul Roaming Form
+1201,Ogerpon Teal Mask
+1202,Ogerpon Wellspring Mask
+1203,Ogerpon Hearthflame Mask
+1204,Ogerpon Cornerstone Mask
+1211,Terapagos Normal Form
+1212,Terapagos Terastal Form
+1213,Terapagos Stellar Form

@@ -14,9 +14,9 @@ Placeholder.
 
 ## Data Set Adjustments
 
+The original dataset contained two minor errors. Golisopod's type was changed from "bug" to "Bug". Snom's type was changed from "ice" to "Ice".
 
-
-See ignored_pokemon.csv for details. Golisopod's type was changed from "bug" to "Bug". Snom's type was changed from "ice" to "Ice".
+Some Pokemon have several variants and forms that share the same name. Due to complications in matching these variants and forms, many of these Pokemon were removed from the dataset before analysis. See ignored_pokemon.csv for the full list of Pokemon that were removed from the dataset.
 
 ## License
 
