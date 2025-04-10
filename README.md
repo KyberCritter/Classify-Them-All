@@ -1,7 +1,7 @@
 
 # ST 545 Project
 
-Predicting the in-game statistics of Pokemon characters from visual data.
+Predicting the in-game statistics of Pokemon characters from in-game statistics and image colors.
 
 ## Abstract
 
