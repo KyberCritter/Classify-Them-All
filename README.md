@@ -44,6 +44,8 @@ To read through the code and results behind the paper, open the files `html/prep
 
 ### Data Sets
 
+All relevant data has been included in the `data` directory.
+
 1. Pokémon Images - ["Pokemon with Stats and Images" by Christoffer MS, Kaggle](https://www.kaggle.com/datasets/christofferms/pokemon-with-stats-and-image)
 2. Pokémon Statistics - ["Pokemon Pokedex" by Kumar Arnav, Kaggle](https://www.kaggle.com/datasets/arnavvvvv/pokemon-pokedex)
 
