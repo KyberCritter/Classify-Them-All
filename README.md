@@ -1,11 +1,7 @@
 
-# ST 545 Project
+# Classify Them All
 
-Predicting the in-game statistics of Pokemon characters from in-game statistics and image colors.
-
-## Abstract
-
-Placeholder.
+Predicting the in-game statistics of Pokemon characters from in-game statistics and image colors. For an analysis of methodology, results, and more, read the paper, `Classify Them All Report.pdf`.
 
 ## Data Sets
 
