@@ -1,7 +1,7 @@
 
 # Classify Them All
 
-Predicting the in-game statistics of Pokémon characters from in-game statistics and image colors. For an analysis of methodology, results, and more, read the paper, `reports/Classify Them All Report.pdf`. For a simplified explanation of the project, read the presentation, `reports/Classify Them All Presentation.pdf`.
+Using machine learning to predict the types of Pokémon characters based on in-game statistics and image data. For an analysis of methodology, results, and more, read the paper, `reports/Classify Them All Report.pdf`. For a simplified explanation of the project, read the presentation, `reports/Classify Them All Presentation.pdf`.
 
 ## License
 
