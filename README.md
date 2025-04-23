@@ -1,13 +1,13 @@
 
 # Classify Them All
 
-Predicting the in-game statistics of Pokémon characters from in-game statistics and image colors. For an analysis of methodology, results, and more, read the paper, `Classify Them All Report.pdf`.
+Predicting the in-game statistics of Pokémon characters from in-game statistics and image colors. For an analysis of methodology, results, and more, read the paper, `reports/Classify Them All Report.pdf`. For a simplified explanation of the project, read the presentation, `reports/Classify Them All Presentation.pdf`.
 
 ## License
 
 (c) 2025 Scott Ratchford.
 
-`ST-545-Project` is licensed under the MIT License. See `LICENSE.txt` for details.
+`Classify Them All` is licensed under the MIT License. See `LICENSE.txt` for details.
 
 ## Abstract
 
@@ -19,24 +19,11 @@ We seek to answer three questions. How do Pokémon statistics relate to Pokémon
 
 We found that the in-game statistics of Pokémon have an insignificant correlation with Pokémon types. The colors of each Pokémon have significant correlations with Pokémon types. The combination of these two data sets provides improved prediction accuracy, but the color data is far more significant that other data.
 
-## Data Sources
-
-### Data Sets
-
-1. Pokémon Images - [Pokemon with Stats and Images by Christoffer MS, Kaggle](https://www.kaggle.com/datasets/christofferms/pokemon-with-stats-and-image)
-2. Pokémon Statistics - ["Pokemon Pokedex" by Kumar Arnav, Kaggle](https://www.kaggle.com/datasets/arnavvvvv/pokemon-pokedex)
-
-### Data Set Adjustments
-
-The original dataset contained two minor errors. Golisopod's type was changed from "bug" to "Bug". Snom's type was changed from "ice" to "Ice".
-
-Some Pokémon have several variants and forms that share the same name. Due to complications in matching these variants and forms, many of these Pokémon were removed from the dataset before analysis. See `ignored_pokemon.csv` for the full list of Pokémon that were removed from the dataset.
-
 ## How to Use
 
-### Read the Paper
+### Read the Report
 
-To read the paper, open the file `Classify Them All Report.pdf`.
+To read the paper, open the file `reports/Classify Them All Report.pdf` or `reports/Classify Them All Report.docx`. To read the presentation, open the file `reports/Classify Them All Presentation.pdf` or `reports/Classify Them All Presentation.pptx`.
 
 ### Read the Full Results
 
@@ -52,6 +39,19 @@ To read through the code and results behind the paper, open the files `html/prep
 6. Open the file `preprocess_data.ipynb`, connect to the virtual environment kernel, and run all cells. This automatically splits the Pokémon into training and testing sets, processes the colors of each, and saves the files required for `main.ipynb` to function properly.
 7. Open the file `main.ipynb`, connect to the virtual environment kernel, and run all cells.
 8. Open the file `create_visuals.ipynb`, connect to the virtual environment kernel, and run all cells.
+
+## Data Sources
+
+### Data Sets
+
+1. Pokémon Images - [Pokemon with Stats and Images by Christoffer MS, Kaggle](https://www.kaggle.com/datasets/christofferms/pokemon-with-stats-and-image)
+2. Pokémon Statistics - ["Pokemon Pokedex" by Kumar Arnav, Kaggle](https://www.kaggle.com/datasets/arnavvvvv/pokemon-pokedex)
+
+### Data Set Adjustments
+
+The original dataset contained two minor errors. Golisopod's type was changed from "bug" to "Bug". Snom's type was changed from "ice" to "Ice".
+
+Some Pokémon have several variants and forms that share the same name. Due to complications in matching these variants and forms, many of these Pokémon were removed from the dataset before analysis. See `ignored_pokemon.csv` for the full list of Pokémon that were removed from the dataset.
 
 ## Generative AI Usage Disclosure
 
